@@ -1,0 +1,174 @@
+{
+	"firstName": "John",
+	"lastName": "Smith",
+	"age": 25,
+	
+"phoneNumbers": [
+		{	"type": "home",
+			"number": "212 555-1234"},
+		{	"type": "fax",
+			"number": "646.555.4567"}
+	],
+	"height": 5.8
+}
+
+{
+    "firstName"   : "Allu",
+    "lastName"    : "Arjun",
+    "age"         : 32,
+    "height"      : 5.8,
+    "phoneNumbers": [
+    	{
+    		"type" 	: "Home",
+            "number": "212 555-1234"
+        },
+        {  
+        	"type"   : "Fax",
+            "number": "646.555.4567"
+        }   
+    ]
+}
+{
+    "firstName"   : "Mahesh",
+    "lastName"    : "Babu",
+    "age"         : 39,
+    "height"      : 6.0,
+    "phoneNumbers": [
+    	{  
+    		"type" 	: "Home",
+            "number": "212 555-1234" 
+        },
+        {  
+        	"type"   : "Fax",
+            "number": "646.555.4567"
+        }   
+    ]
+}
+{
+    "firstName"   : "Pawan",
+    "lastName"    : "Kalyan",
+    "age"         : 42,
+    "height"      : 5.11,
+    "phoneNumbers": [
+    	{  
+    		"type" 	: "Home",
+            "number": "212 555-1234" 
+        },
+        {  
+        	"type"   : "Fax",
+            "number": "646.555.4567"
+        }   
+    ]
+}  
+{
+    "firstName"   : "NT",
+    "lastName"    : "Ramarao",
+    "age"         : 30,
+    "height"      : 5.6,
+    "phoneNumbers": [
+    	{  
+    		"type" 	: "Home",
+            "number": "212 555-1234" 
+        },
+        {  
+        	"type"   : "Fax",
+            "number": "646.555.4567"
+        }   
+    ]
+}  
+{
+    "firstName"   : "Ram",
+    "lastName"    : "Charan",
+    "age"         : 29,
+    "height"      : 5.8,
+    "phoneNumbers": [
+    	{  
+    		"type" 	: "Home",
+            "number": "212 555-1234" 
+        },
+        {  
+        	"type"   : "Fax",
+            "number": "646.555.4567"
+        }   
+    ]
+}
+{
+    "firstName"   : "Pra",
+    "lastName"    : "Bas",
+    "age"         : 32,
+    "height"      : 6.2,
+    "phoneNumbers": [
+    	{  
+    		"type" 	: "Home",
+            "number": "212 555-1234" 
+        },
+        {  
+        	"type"   : "Fax",
+            "number": "646.555.4567"
+        }   
+    ]
+}  
+{
+    "firstName"   : "Ra",
+    "lastName"    : "Na",
+    "age"         : 30,
+    "height"      : 6.2,
+    "phoneNumbers": [
+    	{  
+    		"type" 	: "Home",
+            "number": "212 555-1234" 
+        },
+        {  
+        	"type"   : "Fax",
+            "number": "646.555.4567"
+        }   
+    ]
+}  
+{
+    "firstName"   : "Naga",
+    "lastName"    : "Chaitanya",
+    "age"         : 26,
+    "height"      : 5.9,
+    "phoneNumbers": [
+    	{  
+    		"type" 	: "Home",
+            "number": "212 555-1234" 
+        },
+        {  
+        	"type"   : "Fax",
+            "number": "646.555.4567"
+        }   
+    ]
+}  
+{
+    "firstName"   : "Varun",
+    "lastName"    : "Tej",
+    "age"         : 25,
+    "height"      : 6.3,
+    "phoneNumbers": [
+    	{  
+    		"type" 	: "Home",
+            "number": "212 555-1234" 
+        },
+        {  
+        	"type"   : "Fax",
+            "number": "646.555.4567"
+        }   
+    ]
+}
+{
+    "firstName"   : "Allu",
+    "lastName"    : "Siresh",
+    "age"         : 25,
+    "height"      : 5.8,
+    "phoneNumbers": [
+    	{  
+    		"type" 	: "Home",
+            "number": "212 555-1234" 
+        },
+        {  
+        	"type"   : "Fax",
+            "number": "646.555.4567"
+        }   
+    ]
+}  
